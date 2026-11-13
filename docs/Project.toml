@@ -1,0 +1,7 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+SqueroPlot = "06b7c1eb-d5d3-492b-8c0f-45d07f92670e"
+
+[compat]
+Documenter = "1"
+
